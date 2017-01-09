@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Below you will find some information on how to perform common tasks.  
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/template/README.md).
 
@@ -387,3 +388,7 @@ Use the [Heroku Buildpack for create-react-app](https://github.com/mars/create-r
 ### Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/template/README.md)
+=======
+# bulletin-board
+Bulletin Board React Tutorial Course
+>>>>>>> 7b388ac27f175b52e3ce1e350c441c7135264374
